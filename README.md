@@ -1,4 +1,3 @@
-<br>
 
 # Parallax Effect
 
@@ -9,7 +8,7 @@
 </p>
 
 <p align="center">
-   EXEMPLE
+   EXAMPLE
 </p>
 
 
